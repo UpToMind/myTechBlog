@@ -1,8 +1,8 @@
 // 기본 설정 파일
 // 여기서 사용자 입장에서 꼭 입력해야 하는 정보를 의사결정해서 개발에 반영할 필요가 있습니다.
 const siteConfig = {
-  username: "", // GitHub 사용자 이름
-  repositoryName: "", // GitHub 저장소 이름
+  username: "UpToMind", // GitHub 사용자 이름
+  repositoryName: "myTechBlog", // GitHub 저장소 이름
   mainColor: "#3498db", // 사이트의 주 색상
   textColor: "#333333", // 기본 텍스트 색상
   blogTitle: "", // 블로그 제목
@@ -13,8 +13,8 @@ const siteConfig = {
 const users = [
   {
     id: 0, // default author
-    username: "licat",
-    company: "weniv",
+    username: "이동준",
+    company: "not_yet",
     position: "CEO",
     img: "img/user/profile-licat.png",
   },
